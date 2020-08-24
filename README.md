@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ares-wensong-test
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# management
+>>>>>>> 5b0ba452ab9354309b45a73a7f305fb1ab2fc7b8
